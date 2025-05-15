@@ -1,6 +1,3 @@
-# laravel-firebase-notifications
-A Laravel-based REST API to send push notifications using Firebase Cloud Messaging (FCM), supporting both single and multicast device tokens.
-
 # Laravel Firebase Notifications
 
 This is a Laravel-based project that provides REST API endpoints to send push notifications using Firebase Cloud Messaging (FCM). It supports both single device and multicast notifications.
